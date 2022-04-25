@@ -1,0 +1,46 @@
+"root":{11 items
+"name":string"Blue Chips Ninjas #418"
+"symbol":string"BCN"
+"description":string"Blue Chips Ninjas is a collaborative space where members can share their best alpha info and help the rest of the community make good decisions when entering a project. Holders will be rewarded with $NINJAS tokens that can be used to access channels with more information, as well as to open their own alpha channel and inform the rest of Ninjas."
+"seller_fee_basis_points":int800
+"image":string"https://github.com/solcandy/evolve/blob/main/tier2SAC.png"
+"external_url":string""
+"edition":int418
+"collection":{2 items
+"name":string"Blue Chips Ninjas"
+"family":string"Blue Chips Ninjas"
+}
+"properties":{3 items
+"files":[1 item
+0:{2 items
+"uri":string"https://github.com/solcandy/evolve/blob/main/tier2SAC.png"
+"type":string"image/png"
+}
+]
+"category":string"image"
+"creators":[1 item
+0:{2 items
+"address":string"72ZCdEsXNfKNQDemd3YDsSA3Mgx6p6cBQ6nXEYbkxYLM"
+"share":int100
+}
+]
+}
+"attributes":[1 item
+0:{2 items
+"trait_type":string"Tier"
+"value":string"2"
+}
+]
+"status":[2 items
+0:{3 items
+"name":string"Secondary Market"
+"value":int1
+"type":string"primarySaleHappened"
+}
+1:{3 items
+"name":string"Mutable"
+"value":int1
+"type":string"primarySaleHappened"
+}
+]
+}
