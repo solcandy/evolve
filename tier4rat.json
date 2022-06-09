@@ -3,7 +3,7 @@
 "symbol":string"BCN"
 "description":string"Blue Chips Ninjas is a collaborative space where members can share their best alpha info and help the rest of the community make good decisions when entering a project."
 "seller_fee_basis_points":int2500
-"image":string"https://lh3.googleusercontent.com/UEEZ-lv1dmMdK0kjl98NxCmAWJxkOrhKf87WseGJFebi0HZx2DOnKA50odVVCDxYudT0DL7GopLyzduz0v_paGVqX6vqxfSdxXv8gg=w600"
+"image":string"https://nftevening.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-4.06.09-AM.jpg"
 "external_url":string""
 "edition":int340
 "collection":{2 items
@@ -13,8 +13,8 @@
 "properties":{3 items
 "files":[1 item
 0:{2 items
-"uri":string"https://lh3.googleusercontent.com/UEEZ-lv1dmMdK0kjl98NxCmAWJxkOrhKf87WseGJFebi0HZx2DOnKA50odVVCDxYudT0DL7GopLyzduz0v_paGVqX6vqxfSdxXv8gg=w600"
-"type":string"image/png"
+"uri":string"https://nftevening.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-4.06.09-AM.jpg"
+"type":string"image/jpg"
 }
 ]
 "category":string"image"
