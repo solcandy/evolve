@@ -1,0 +1,70 @@
+"root":{11 items
+"name":string"Blue Chips Ninjas Gen2 #340"
+"symbol":string"BCN"
+"description":string"Blue Chips Ninjas is a collaborative space where members can share their best alpha info and help the rest of the community make good decisions when entering a project."
+"seller_fee_basis_points":int2500
+"image":string"https://www.arweave.net/oE4P0_NbJ1f-GtCKzukp66yVJ_3UvbRmF0b8r7NMbM"
+"external_url":string""
+"edition":int340
+"collection":{2 items
+"name":string"Blue Chips Ninjas Gen2: The rise of Ninjas"
+"family":string"Blue Chip Ninjas"
+}
+"properties":{3 items
+"files":[1 item
+0:{2 items
+"uri":string"https://www.arweave.net/oE4P0_NbJ1f-GtCKzukp66yVJ_3UvbRmF0b8r7NMbM"
+"type":string"image/png"
+}
+]
+"category":string"image"
+"creators":[1 item
+0:{2 items
+"address":string"7CshVZecFq9mGRRV7iwc4QLkN868S7ENKKYviA82crDB"
+"share":int100
+}
+]
+}
+"attributes":[7 items
+0:{2 items
+"trait_type":string"Background"
+"value":string"Gong"
+}
+1:{2 items
+"trait_type":string"Outfit"
+"value":string"Orange"
+}
+2:{2 items
+"trait_type":string"Belt"
+"value":string"Pink"
+}
+3:{2 items
+"trait_type":string"Mirror"
+"value":string"Taiyo 1"
+}
+4:{2 items
+"trait_type":string"Chain"
+"value":string"Silver"
+}
+5:{2 items
+"trait_type":string"Weapon"
+"value":string"Bo"
+}
+6:{2 items
+"trait_type":string"Tier"
+"value":string"0"
+}
+]
+"status":[2 items
+0:{3 items
+"name":string"Secondary Market"
+"value":int1
+"type":string"primarySaleHappened"
+}
+1:{3 items
+"name":string"Mutable"
+"value":int1
+"type":string"primarySaleHappened"
+}
+]
+}
